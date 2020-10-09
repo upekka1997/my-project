@@ -2,9 +2,9 @@
 
 # change the values of num1, num2 and num3
 # for a different result
-num1 = 10
-num2 = 14
-num3 = 12
+num1 = int(input("Enter num1 : "))
+num2 = int(input("Enter num2 : "))
+num3 = int(input("Enter num3 : "))
 
 # uncomment following lines to take three numbers from user
 #num1 = float(input("Enter first number: "))
